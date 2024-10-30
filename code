@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  
+  <div class="grid-container2">
+    <div class="dropdown">
+      <button class="dropbtn">Catagories</button>
+      <div class="dropdown-content">
+        <a href="Travel.html">Travel</a>
+        <a href="Technology.html">Technology</a>
+        <a href="Storage.html">Safes and storage</a>
+        <a href="Defense.html">Defense and security</a>
+        <a href="Managers.html">Management and assistance</a>
+        <a href="Self-improvement.html">Self</a>
+        <a href="Home-improvement.html">Home improvement</a>
+      </div>
+    </div>
+    <div class="grid-container"><a href="index.html">Home</a></div>
+  </div>
+<head>
+<div class="grid-container1">
+<img src="Screenshot-2023-10-09-10.00.15-AM.png" alt="Useless industries logo" align="right" width="351" height="354"/>
+  <center> <h2>Main page </h2>
+  <link rel="stylesheet" href="Main.css">
+  <link rel="stylesheet" href="All.css">
+    <h><strong>Welcome to the Usless Industries online store </strong></h> </center> </div>
+ 
+   
+  
+  
+  <br><br><br><br><br><br><br><br>
+  </head>
+    <div class="grid-container3">
+    <table>
+      <tr>
+      <td><div class="grid-item" alt="travel"><a href="Travel.html"><img src="Screenshot-2023-10-05-3.57.40-PM.png" alt="Travel" height="107px" width="106px" /><br><p>Travel</p></a></div></td>  
+        
+    <td><div class="grid-item" alt="management"><a href="Managers.html"><img src="Screenshot-2023-10-05-4.34.46-PM.png" alt="AI/asistance/management" height="107px" width="106px"/><br><p>Management</a></div></td>
+        
+        
+      <td><div class="grid-item" alt="defense"><a href="Defense.html"><img src="Screenshot-2023-10-06-10.38.58-AM.png" alt="Defense/Security"width="106px" height="107px" /><br><p>Defense</a></div></td>
+    
+      <td><div class="grid-item" alt="storage"><a href="Storage.html"><img src="Screenshot-2023-10-05-7.13.08-PM.png" alt="Safes and storage" height="107px" width="106px"/><br><p>Storage</a></div></td>
+      </tr>
+      <tr>
+      <td><div class="grid-item" alt="technology"><a href="Technology.html"><img src="Screenshot-2023-10-05-4.32.39-PM.png" alt="Technology"height="107px" width="106px"  />
+      <br><p>Technology</a></div></td>
+        
+      <td><div class="grid-item" alt="Self-improvement"><a href="Self.html"><img src="Screenshot-2023-10-06-10.48.30-AM.png" alt="Self improvement"height="107px" width="106px"/><br><p>Self</p></a></div></td>
+        
+      <td><div class="grid-item" alt="Home improvement"><a href="Home-improvement.html"><img src="Screenshot-2023-10-06-10.27.01-AM.png" alt="Cleaning"height="107px" width="106px"/><br><p>Cleaning</p></a></div></td>
+        
+        <td><div class="grid-item" alt="weird pigs"><a href="https://codeprojects.org/projects/weblab/IVvo90Wv7YgOplaaOOZbeMlVfJnGkX1AHOxTd2beykM"><p>WeirdPigs.com</p></a></div></td>
+      </tr>
+      </table>
+    </div> 
+    <br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <p> <center>  Welcome to the Usless Industries product website. Here we sell products. Because this is a product website and product websites sell products!</center></p>
+  <html>
